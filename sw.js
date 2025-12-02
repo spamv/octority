@@ -1,6 +1,6 @@
 self.importScripts('/octority/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-1764714245';
+const cacheName = 'chirpy-1764716214';
 
 function verifyDomain(url) {
   for (const domain of allowedDomains) {
