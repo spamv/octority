@@ -1,23 +1,23 @@
 const resource = [
   /* --- CSS --- */
-  '/octority/assets/css/jekyll-theme-chirpy.css',
+  '/assets/css/jekyll-theme-chirpy.css',
 
   /* --- PWA --- */
-  '/octority/app.js',
-  '/octority/sw.js',
+  '/app.js',
+  '/sw.js',
 
   /* --- HTML --- */
-  '/octority/index.html',
-  '/octority/404.html',
+  '/index.html',
+  '/404.html',
 
   
-    '/octority/categories/',
+    '/categories/',
   
-    '/octority/tags/',
+    '/tags/',
   
-    '/octority/archives/',
+    '/archives/',
   
-    '/octority/about/',
+    '/about/',
   
 
   /* --- Favicons & compressed JS --- */
@@ -29,7 +29,7 @@ const resource = [
 const allowedDomains = [
   
 
-  'spamv.github.io',
+  'blog.octority.com',
 
   
 

@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://spamv.github.io/octority/sitemap.xml
+Sitemap: https://blog.octority.com/sitemap.xml

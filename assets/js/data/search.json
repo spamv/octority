@@ -2,7 +2,7 @@
   
   {
     "title": "CyberArk Enterprise Password Vault - XML External Entity (XXE) Injection",
-    "url": "/octority/2019/05/07/cyberark-enterprise-password-vault-xml-external-entity-xxe-injection/",
+    "url": "/2019/05/07/cyberark-enterprise-password-vault-xml-external-entity-xxe-injection/",
     "categories": "",
     "tags": "",
     "date": "2019-05-07 00:00:00 +0200",
@@ -19,7 +19,7 @@
   
   {
     "title": "Trying to increase the severity of subdomain takeovers",
-    "url": "/octority/2018/08/08/trying-to-increasing-the-severity-of-subdomain-takeovers/",
+    "url": "/2018/08/08/trying-to-increasing-the-severity-of-subdomain-takeovers/",
     "categories": "webapps",
     "tags": "",
     "date": "2018-08-08 00:00:00 +0200",
@@ -36,7 +36,7 @@
   
   {
     "title": "From CouchDB admin to remote code execution",
-    "url": "/octority/2017/05/16/from-couchdb-admin-to-remote-code-execution/",
+    "url": "/2017/05/16/from-couchdb-admin-to-remote-code-execution/",
     "categories": "databases",
     "tags": "couchdb, rce",
     "date": "2017-05-16 00:00:00 +0200",
@@ -53,7 +53,7 @@
   
   {
     "title": "Removing infection modifying Metasploit post modules",
-    "url": "/octority/2017/03/29/removing-infection-modifying-metasploit-post-modules/",
+    "url": "/2017/03/29/removing-infection-modifying-metasploit-post-modules/",
     "categories": "client-side-attacks",
     "tags": "dll-injection, metasploit",
     "date": "2017-03-29 00:00:00 +0200",
@@ -70,7 +70,7 @@
   
   {
     "title": "Manage metasploit listeners with Tmux",
-    "url": "/octority/2017/03/22/manage-metasploit-listeners-with-tmux/",
+    "url": "/2017/03/22/manage-metasploit-listeners-with-tmux/",
     "categories": "client-side-attacks",
     "tags": "cc, metasploit, tmux",
     "date": "2017-03-22 00:00:00 +0100",
@@ -87,7 +87,7 @@
   
   {
     "title": "Violent Rapberry Pi Zero: Configuration - Part 1",
-    "url": "/octority/2017/02/23/violent-rapberry-pi-zero-configuration-part-1/",
+    "url": "/2017/02/23/violent-rapberry-pi-zero-configuration-part-1/",
     "categories": "",
     "tags": "raspberry-pi",
     "date": "2017-02-23 00:00:00 +0100",
@@ -104,7 +104,7 @@
   
   {
     "title": "Crackme challenge resolution with Radare2 (crackme0x03)",
-    "url": "/octority/2017/02/23/crackme-challenge-resolution-with-radare2-crackme0x03/",
+    "url": "/2017/02/23/crackme-challenge-resolution-with-radare2-crackme0x03/",
     "categories": "reverse-engineering",
     "tags": "ctf, radare, reverse-engineering",
     "date": "2017-02-23 00:00:00 +0100",
@@ -121,7 +121,7 @@
   
   {
     "title": "Crackme challenge resolution with Radare2 (crackme0x02)",
-    "url": "/octority/2017/02/23/crackme-challenge-resolution-with-radare2-crackme0x02/",
+    "url": "/2017/02/23/crackme-challenge-resolution-with-radare2-crackme0x02/",
     "categories": "reverse-engineering",
     "tags": "ctf, radare, reverse-engineering",
     "date": "2017-02-23 00:00:00 +0100",
@@ -138,7 +138,7 @@
   
   {
     "title": "Crackme challenge resolution with Radare2 (crackme0x01)",
-    "url": "/octority/2017/02/23/crackme-challenge-resolution-with-radare2-crackme0x01/",
+    "url": "/2017/02/23/crackme-challenge-resolution-with-radare2-crackme0x01/",
     "categories": "reverse-engineering",
     "tags": "ctf, radare, reverse-engineering",
     "date": "2017-02-23 00:00:00 +0100",
@@ -155,7 +155,7 @@
   
   {
     "title": "Adding new skills to the Metasploit Firefox addon",
-    "url": "/octority/2017/02/23/adding-new-skills-to-the-meterpreter-firefox-addon/",
+    "url": "/2017/02/23/adding-new-skills-to-the-meterpreter-firefox-addon/",
     "categories": "client-side-attacks",
     "tags": "exploit, firefox",
     "date": "2017-02-23 00:00:00 +0100",
@@ -172,7 +172,7 @@
   
   {
     "title": "Crackme with Radare2 (crackme0x00a)",
-    "url": "/octority/2017/02/20/reverse-engineering-crackme-with-radare2-crackme0x00a/",
+    "url": "/2017/02/20/reverse-engineering-crackme-with-radare2-crackme0x00a/",
     "categories": "reverse-engineering",
     "tags": "ctf, radare, reverse-engineering",
     "date": "2017-02-20 00:00:00 +0100",
