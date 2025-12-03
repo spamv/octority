@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://blog.octority.com/sitemap.xml
+Sitemap: https://www.octority.com/sitemap.xml

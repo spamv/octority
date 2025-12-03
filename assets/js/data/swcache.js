@@ -29,7 +29,7 @@ const resource = [
 const allowedDomains = [
   
 
-  'blog.octority.com',
+  'www.octority.com',
 
   
 
